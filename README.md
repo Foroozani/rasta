@@ -1,6 +1,7 @@
 # rasta
 [![](https://raw.githubusercontent.com/ikespand/rasta/master/docs/Rasta_logo.png)](rasta_logo)
 
+[![rasta](https://img.shields.io/badge/rasta-v0.0.2-blue)](https://pypi.org/project/rasta/)
 [![PyTest](https://github.com/ikespand/rasta/workflows/PyTest/badge.svg)](https://github.com/ikespand/rasta/actions?query=workflow%3APyTest) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) [![Python 3.7+](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Python 3.8+](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
